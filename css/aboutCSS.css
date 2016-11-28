@@ -6,7 +6,7 @@ body {
 }
 
 #ww {
-    background: url(../assets/images/cover_pic.jpg);
+    /*background: url(../assets/images/cover_pic.jpg);*/
 /*    background-color: rgba(0,0,0,0.5);*/
     color: white;
     background-size: 100%;
