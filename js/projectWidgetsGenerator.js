@@ -25,7 +25,7 @@
                 widgetTitle: "In-Campus Locator",
                 widgetDescription: 'A Smart Kitchen Experience',
                 pageLink: "campusnav.html",
-                widgetImage:"In_campus_locator/Pics/logo.png"
+                widgetImage:"In_campus_locator/Pics/Logo.PNG"
             },
             
             {
@@ -33,7 +33,7 @@
                 widgetTitle: "DinnerCall",
                 widgetDescription: 'UX Design & Evaluation',
                 pageLink: "DinnerCall.html",
-                widgetImage:"DinnerCall/pics/logo.jpg"
+                widgetImage:"DinnerCall/pics/Logo.JPG"
             },
             
             {
